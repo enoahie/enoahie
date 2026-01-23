@@ -55,8 +55,8 @@ Interactive geospatial dashboard that classifies county asthma risk and simulate
 </td>
 <td width="50%" valign="top">
 
-<a href="ADD_AI_DEV_STUDIO_REPO_LINK">
-  <img src="https://placehold.co/1200x630/111827/FFFFFF?text=AI+Dev+Studio+Preview" alt="AI Dev Studio" width="100%"/>
+<a href="https://d2gaxf0aes9tyr.cloudfront.net/?utm_source=github">
+  <img src="https://raw.githubusercontent.com/enoahie/enoahie/main/assets/ai-dev-studio-screenshot.png" alt="AI Dev Studio" width="100%"/>
 </a>
 
 #### AI Dev Studio  
