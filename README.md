@@ -43,15 +43,14 @@ const noahie = {
 <td width="50%" valign="top">
 
 <a href="https://github.com/enoahie/asthma-pol">
-  <img src="https://opengraph.githubassets.com/1/enoahie/asthma-pol" alt="US Asthma Risk What-If Dashboard" width="100%"/>
+  <img src="https://raw.githubusercontent.com/enoahie/asthma-pol/main/assets/screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
 </a>
 
-#### 🫁 US Asthma Risk “What‑If” Dashboard  
+#### US Asthma Risk “What‑If” Dashboard  
 Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
 
-**Tech Stack:** `pandas` `NumPy` `scikit-learn (VotingClassifier: RF/KNN/GB)` `D3.js` `TopoJSON` `GitHub Pages`  
-🔗 **Live:** https://enoahie.github.io/asthma-pol/  
-📦 **Repo:** https://github.com/enoahie/asthma-pol  
+**Live Demo:** [**Demo**](https://enoahie.github.io/asthma-pol/)<br/>
+**Code:** [**Code**](https://github.com/enoahie/asthma-pol)
 
 </td>
 <td width="50%" valign="top">
@@ -60,17 +59,13 @@ Interactive geospatial dashboard that classifies county asthma risk and simulate
   <img src="https://placehold.co/1200x630/111827/FFFFFF?text=AI+Dev+Studio+Preview" alt="AI Dev Studio" width="100%"/>
 </a>
 
-#### 🧩 AI Dev Studio  
+#### AI Dev Studio  
 AI-assisted platform that turns prompts into websites with **real-time preview**, code editing, and **one‑click deploys** on a serverless AWS stack.
 
-**Tech Stack:** `React` `Vite` `AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFront` `Amazon Bedrock`  
-🔗 **Demo:** *(add link)*  
-📦 **Repo:** *(add link)*  
+**Live Demo:** [**Demo**](https://d2gaxf0aes9tyr.cloudfront.net/?utm_source=github) 
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
