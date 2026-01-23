@@ -20,7 +20,7 @@ const noahie = {
   role: "Software Engineer",
   code: ["Python", "TypeScript", "SQL", "SOQL", "Bash"],
   tech: ["AWS", "Terraform", "Docker", "React", "Vite"],
-  agentic tools: ["Cursor", "Amazon Q", "Claude", "CoPilot", "ChatGPT"]
+  tools: ["Cursor", "Amazon Q", "Claude", "CoPilot", "ChatGPT"],
   architecture: ["microservices", "event-driven"],
   interests: [
     "AI/ML engineering + data",
