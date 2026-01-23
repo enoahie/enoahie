@@ -39,7 +39,7 @@ const noahie = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/enoahie/asthma-pol">
+<a href="https://enoahie.github.io/asthma-pol/">
   <img src="https://raw.githubusercontent.com/enoahie/asthma-pol/main/assets/screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
 </a>
 
