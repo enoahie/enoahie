@@ -32,3 +32,45 @@ const noahie = {
   funFact: "I was a research scientist before joining the tech industry!"
 }
 ```
+---
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZThjMHN4cHl5NXIzYXo2eWg3dnk3YjJpYjA4YmhmNTI3YThsNHNxeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FDxg3hGlnvfc4/giphy.gif" width="50" height="40">Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/enoahie/asthma-pol">
+  <img src="https://opengraph.githubassets.com/1/enoahie/asthma-pol" alt="US Asthma Risk What-If Dashboard" width="100%"/>
+</a>
+
+#### 🫁 US Asthma Risk “What‑If” Dashboard  
+Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
+
+**Tech Stack:** `pandas` `NumPy` `scikit-learn (VotingClassifier: RF/KNN/GB)` `D3.js` `TopoJSON` `GitHub Pages`  
+🔗 **Live:** https://enoahie.github.io/asthma-pol/  
+📦 **Repo:** https://github.com/enoahie/asthma-pol  
+
+</td>
+<td width="50%" valign="top">
+
+<a href="ADD_AI_DEV_STUDIO_REPO_LINK">
+  <img src="https://placehold.co/1200x630/111827/FFFFFF?text=AI+Dev+Studio+Preview" alt="AI Dev Studio" width="100%"/>
+</a>
+
+#### 🧩 AI Dev Studio  
+AI-assisted platform that turns prompts into websites with **real-time preview**, code editing, and **one‑click deploys** on a serverless AWS stack.
+
+**Tech Stack:** `React` `Vite` `AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFront` `Amazon Bedrock`  
+🔗 **Demo:** *(add link)*  
+📦 **Repo:** *(add link)*  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
