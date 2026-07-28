@@ -18,7 +18,7 @@ Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 const noahie = {
   role: "Software Engineer",
   code: ["Python/FastAPI", "TypeScript/React", "Go", "SQL"],
-  "ai/ml": ["LangGraph", "RAG", "XGBoost", "MLflow"],
+  aiMl: ["LangGraph", "RAG", "XGBoost", "MLflow"],
   tech: ["AWS", "Kubernetes"],
   tools: ["Cursor", "Kiro", "Claude", "OpenAI"],
   architecture: ["microservices", "event-driven"],
@@ -46,7 +46,7 @@ const noahie = {
 </a>
 
 #### CreditChecker  
-Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard and a LangGraph agent audited by **three LLM judges**, with a gated auto‑retrain loop.
+AI-powered platform that scores credit applicants with a **calibrated XGBoost** model and explains every decision with citations, audited by **three LLM judges**.
 
 **Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
@@ -68,11 +68,11 @@ AI-assisted platform that turns prompts into websites with **real-time preview**
 <td width="33%" valign="top">
 
 <a href="https://asthma.noahie-e.com/?utm_source=github">
-  <img src="https://raw.githubusercontent.com/enoahie/enoahie/main/assets/asthma-screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
+  <img src="https://raw.githubusercontent.com/enoahie/enoahie/main/assets/asthma-screenshot.png" alt="US Asthma Risk Dashboard" width="100%"/>
 </a>
 
-#### US Asthma Risk “What‑If” Dashboard  
-Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
+#### US Asthma Risk Dashboard  
+Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** with instant map updates.
 
 **Live Demo:** [asthma.noahie-e.com](https://asthma.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
