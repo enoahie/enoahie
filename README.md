@@ -17,9 +17,9 @@ Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 ```javascript
 const noahie = {
   role: "Software Engineer",
-  code: ["Python", "TypeScript", "Go", "SQL", "Bash"],
-  ai: ["LangGraph", "RAG", "XGBoost", "MLflow", "PyTorch"],
-  tech: ["AWS", "Kubernetes", "Terraform", "Docker", "FastAPI", "React"],
+  code: ["Python/FastAPI", "TypeScript/React", "Go", "SQL"],
+  "ai/ml": ["LangGraph", "RAG", "XGBoost", "MLflow"],
+  tech: ["AWS", "Kubernetes"],
   tools: ["Cursor", "Kiro", "Claude", "OpenAI"],
   architecture: ["microservices", "event-driven"],
   interests: [
