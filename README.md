@@ -10,9 +10,9 @@ Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white&link=https://noahie-e.com/?utm_source=github)](https://noahie-e.com/?utm_source=github)
 [![GitHub enoahie](https://img.shields.io/github/followers/enoahie?label=follow&style=social)](https://github.com/enoahie)
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6MZ3LFq3WD6g/giphy.gif" width="75"> A little more about me...
-
 <br clear="all"/>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6MZ3LFq3WD6g/giphy.gif" width="75"> A little more about me...
 
 ```javascript
 const noahie = {
