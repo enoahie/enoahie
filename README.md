@@ -39,27 +39,44 @@ const noahie = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://enoahie.github.io/asthma-pol/">
-  <img src="https://raw.githubusercontent.com/enoahie/asthma-pol/main/assets/screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
+<a href="https://creditchecker.noahie-e.com/?utm_source=github">
+  <img src="https://raw.githubusercontent.com/enoahie/enoahie/main/assets/creditchecker-screenshot.png" alt="CreditChecker" width="100%"/>
 </a>
 
-#### US Asthma Risk “What‑If” Dashboard  
-Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
+#### CreditChecker  
+Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard with per-product rulebooks, a **LangGraph agent** whose explanations are audited by **three LLM judges**, a live run trace, fairness + drift dashboards, and a gated auto‑retrain loop.
 
-**Live Demo:** [**Demo**](https://enoahie.github.io/asthma-pol/)<br/>
-**Code:** [**Code**](https://github.com/enoahie/asthma-pol)
+**Live Demo:** [**Demo**](https://creditchecker.noahie-e.com/?utm_source=github)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://d2gaxf0aes9tyr.cloudfront.net/?utm_source=github">
+<a href="https://aidevstudio.noahie-e.com/?utm_source=github">
   <img src="https://raw.githubusercontent.com/enoahie/enoahie/main/assets/ai-dev-studio-screenshot.png" alt="AI Dev Studio" width="100%"/>
 </a>
 
 #### AI Dev Studio  
 AI-assisted platform that turns prompts into websites with **real-time preview**, code editing, and **one‑click deploys** on a serverless AWS stack.
 
-**Live Demo:** [**Demo**](https://d2gaxf0aes9tyr.cloudfront.net/?utm_source=github) 
+**Live Demo:** [**Demo**](https://aidevstudio.noahie-e.com/?utm_source=github) 
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://asthma.noahie-e.com/">
+  <img src="https://raw.githubusercontent.com/enoahie/asthma-pol/main/assets/screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
+</a>
+
+#### US Asthma Risk “What‑If” Dashboard  
+Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
+
+**Live Demo:** [**Demo**](https://asthma.noahie-e.com/)<br/>
+**Code:** [**Code**](https://github.com/enoahie/asthma-pol)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
