@@ -47,8 +47,6 @@ const noahie = {
 #### CreditChecker  
 Multi-agent **LangGraph** system that predicts a user's credit approval with a calibrated XGBoost model and explains every decision with citations, audited by **three agents**.
 
-**Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
-**Code:** available on request
 
 </td>
 <td width="33%" valign="top">
@@ -60,8 +58,6 @@ Multi-agent **LangGraph** system that predicts a user's credit approval with a c
 #### AI Dev Studio  
 AI-assisted platform that turns prompts into websites with **real-time preview**, code editing, and **one‑click deploys** on a serverless AWS stack.
 
-**Live Demo:** [aidevstudio.noahie-e.com](https://aidevstudio.noahie-e.com/?utm_source=github)<br/>
-**Code:** available on request
 
 </td>
 <td width="33%" valign="top">
@@ -73,8 +69,6 @@ AI-assisted platform that turns prompts into websites with **real-time preview**
 #### US Asthma Risk Dashboard  
 Interactive dashboard that classifies county asthma risk and simulates **10–50% reductions** with instant map updates.
 
-**Live Demo:** [asthma.noahie-e.com](https://asthma.noahie-e.com/?utm_source=github)<br/>
-**Code:** available on request
 
 </td>
 </tr>
