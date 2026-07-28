@@ -3,11 +3,10 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNoaGRqa252OHI4Zm40MzdwNzE1cDh3OGYxM3g3eXNjNXdxa3MyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" width="220"/>
 
 <p><em>
-Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a><br/>
-M.S. Computer Science (AI) @ <a href="https://www.gatech.edu/">Georgia Tech</a>
+Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 </em></p>
 
-[![Linkedin: NoahieEncarnacion](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noahie-encarnacion/)](https://www.linkedin.com/in/noahie-encarnacion/)
+[![LinkedIn: noahie](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noahie/)](https://www.linkedin.com/in/noahie/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white&link=https://noahie-e.com/?utm_source=github)](https://noahie-e.com/?utm_source=github)
 [![GitHub enoahie](https://img.shields.io/github/followers/enoahie?label=follow&style=social)](https://github.com/enoahie)
 
@@ -16,9 +15,9 @@ M.S. Computer Science (AI) @ <a href="https://www.gatech.edu/">Georgia Tech</a>
 ```javascript
 const noahie = {
   role: "Software Engineer",
-  code: ["Python", "TypeScript", "SQL", "SOQL", "Bash"],
-  tech: ["AWS", "Terraform", "Docker", "React", "Vite"],
-  tools: ["Cursor", "Amazon Q", "Claude", "CoPilot", "ChatGPT"],
+  code: ["Python", "TypeScript", "Go", "SQL", "Bash"],
+  tech: ["AWS", "Kubernetes", "Terraform", "Docker", "React"],
+  tools: ["Cursor", "Kiro", "Claude", "OpenAI"],
   architecture: ["microservices", "event-driven"],
   interests: [
     "AI/ML engineering + data",
@@ -44,9 +43,10 @@ const noahie = {
 </a>
 
 #### CreditChecker  
-Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard with per-product rulebooks, a **LangGraph agent** whose explanations are audited by **three LLM judges**, a live run trace, fairness + drift dashboards, and a gated auto‑retrain loop.
+Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard, per-product rulebooks, and a LangGraph agent audited by **three LLM judges**, with a live run trace and a gated auto‑retrain loop.
 
-**Live Demo:** [**Demo**](https://creditchecker.noahie-e.com/?utm_source=github)
+**Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
+**Code:** private, available on request
 
 </td>
 <td width="50%" valign="top">
@@ -58,22 +58,23 @@ Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard wi
 #### AI Dev Studio  
 AI-assisted platform that turns prompts into websites with **real-time preview**, code editing, and **one‑click deploys** on a serverless AWS stack.
 
-**Live Demo:** [**Demo**](https://aidevstudio.noahie-e.com/?utm_source=github) 
+**Live Demo:** [aidevstudio.noahie-e.com](https://aidevstudio.noahie-e.com/?utm_source=github)<br/>
+**Code:** private, available on request
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://asthma.noahie-e.com/">
+<a href="https://asthma.noahie-e.com/?utm_source=github">
   <img src="https://raw.githubusercontent.com/enoahie/asthma-pol/main/assets/screenshot.png" alt="US Asthma Risk What-If Dashboard" width="100%"/>
 </a>
 
 #### US Asthma Risk “What‑If” Dashboard  
 Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** (pollution/smoking) with instant map updates.
 
-**Live Demo:** [**Demo**](https://asthma.noahie-e.com/)<br/>
-**Code:** [**Code**](https://github.com/enoahie/asthma-pol)
+**Live Demo:** [asthma.noahie-e.com](https://asthma.noahie-e.com/?utm_source=github)<br/>
+**Code:** [github.com/enoahie/asthma-pol](https://github.com/enoahie/asthma-pol)
 
 </td>
 <td width="50%" valign="top">
