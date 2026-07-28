@@ -1,6 +1,6 @@
-<h2> Hi, I'm Noahie! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vfauiEoikUggOdxRhg/giphy.gif" width="50"></h2>
-
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNoaGRqa252OHI4Zm40MzdwNzE1cDh3OGYxM3g3eXNjNXdxa3MyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" height="150"/>
+
+<h2> Hi, I'm Noahie! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vfauiEoikUggOdxRhg/giphy.gif" width="50"></h2>
 
 <p><em>
 Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
