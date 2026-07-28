@@ -1,5 +1,7 @@
 <h2> Hi, I'm Noahie! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vfauiEoikUggOdxRhg/giphy.gif" width="50"></h2>
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNoaGRqa252OHI4Zm40MzdwNzE1cDh3OGYxM3g3eXNjNXdxa3MyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" width="220"/>
+
 <p><em>
 Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 </em></p>
@@ -8,9 +10,9 @@ Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white&link=https://noahie-e.com/?utm_source=github)](https://noahie-e.com/?utm_source=github)
 [![GitHub enoahie](https://img.shields.io/github/followers/enoahie?label=follow&style=social)](https://github.com/enoahie)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNoaGRqa252OHI4Zm40MzdwNzE1cDh3OGYxM3g3eXNjNXdxa3MyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" width="220"/>
-
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5d3pjdXlxbmFmY2tjbHc0bjBvNHRrenM4bmRkbHh5YW0xNXUwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6MZ3LFq3WD6g/giphy.gif" width="75"> A little more about me...
+
+<br clear="all"/>
 
 ```javascript
 const noahie = {
@@ -44,7 +46,7 @@ const noahie = {
 </a>
 
 #### CreditChecker  
-Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard, per-product rulebooks, and a LangGraph agent audited by **three LLM judges**, with a live run trace and a gated auto‑retrain loop.
+Live ML + LLM credit-decisioning platform: a **calibrated XGBoost** scorecard and a LangGraph agent audited by **three LLM judges**, with a gated auto‑retrain loop.
 
 **Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
