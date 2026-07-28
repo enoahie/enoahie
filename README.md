@@ -18,8 +18,7 @@ Software Engineer @ <a href="https://www.southwest.com/">Southwest Airlines</a>
 const noahie = {
   role: "Software Engineer",
   code: ["Python/FastAPI", "TypeScript/React", "Go", "SQL"],
-  aiMl: ["LangGraph", "RAG", "XGBoost", "MLflow"],
-  tech: ["AWS", "Kubernetes"],
+  tech: ["AWS", "Kubernetes", "LangGraph", "LangChain"],
   tools: ["Cursor", "Kiro", "Claude"],
   architecture: ["microservices", "event-driven"],
   interests: [
@@ -46,7 +45,7 @@ const noahie = {
 </a>
 
 #### CreditChecker  
-Multi-agent **LangGraph** system that scores credit applicants with a calibrated XGBoost model and explains every decision with citations, audited by **three agents**.
+Multi-agent **LangGraph** system that predicts a user's credit approval with a calibrated XGBoost model and explains every decision with citations, audited by **three agents**.
 
 **Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
