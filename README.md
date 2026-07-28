@@ -20,7 +20,7 @@ const noahie = {
   code: ["Python/FastAPI", "TypeScript/React", "Go", "SQL"],
   aiMl: ["LangGraph", "RAG", "XGBoost", "MLflow"],
   tech: ["AWS", "Kubernetes"],
-  tools: ["Cursor", "Kiro", "Claude", "OpenAI"],
+  tools: ["Cursor", "Kiro", "Claude"],
   architecture: ["microservices", "event-driven"],
   interests: [
     "AI/ML engineering + data",
@@ -46,7 +46,7 @@ const noahie = {
 </a>
 
 #### CreditChecker  
-AI-powered platform that scores credit applicants with a **calibrated XGBoost** model and explains every decision with citations, audited by **three LLM judges**.
+Multi-agent **LangGraph** system that scores credit applicants with a calibrated XGBoost model and explains every decision with citations, audited by **three agents**.
 
 **Live Demo:** [creditchecker.noahie-e.com](https://creditchecker.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
@@ -72,7 +72,7 @@ AI-assisted platform that turns prompts into websites with **real-time preview**
 </a>
 
 #### US Asthma Risk Dashboard  
-Interactive geospatial dashboard that classifies county asthma risk and simulates **10–50% reductions** with instant map updates.
+Interactive dashboard that classifies county asthma risk and simulates **10–50% reductions** with instant map updates.
 
 **Live Demo:** [asthma.noahie-e.com](https://asthma.noahie-e.com/?utm_source=github)<br/>
 **Code:** available on request
